@@ -1,7 +1,7 @@
 ### Home Page 
 
 <p>
-<img width=80% src="https://user-images.githubusercontent.com/98693953/196968571-95b302c6-67ca-4df4-bd9c-4bafe5e281c4.png">
+<img width=80% src="98693953/196968571-95b302c6-67ca-4df4-bd9c-4bafe5e281c4.png">
 </p>
 
 ### Category-Page
